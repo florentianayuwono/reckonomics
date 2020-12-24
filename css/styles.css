@@ -60,6 +60,7 @@ h4{
     margin: 5%;
     background-size: 100%;
     color:black;
+    border-radius: 3em;
 }
 a{
     text-decoration: none;
@@ -79,6 +80,7 @@ a{
     margin: 5%;
     background-size: 100%;
     color:rgb(5, 7, 75);
+    border-radius: 3em;
 }
 .container-d{
     display: flex;
@@ -91,6 +93,7 @@ a{
     margin: 5%;
     background-size: 100%;
     color:rgb(68, 6, 46);
+    border-radius: 3em;
 }
 .container-e{
     display: flex;
@@ -103,6 +106,7 @@ a{
     margin: 5%;
     background-size: 100%;
     color:rgb(204, 232, 252);
+    border-radius: 3em;
 }
 .image-e{
     width: 250px;
@@ -119,6 +123,7 @@ a{
     margin: 5%;
     background-size: 100%;
     color:rgb(252, 207, 204);
+    border-radius: 3em;
 }
 .image-f{
     width: 250px;
@@ -135,6 +140,7 @@ a{
     margin: 5%;
     background-size: 100%;
     color:rgb(254, 255, 169);
+    border-radius: 2em;
 }
 .image-g{
     width: 400px;
