@@ -1,0 +1,148 @@
+body {
+    background-color:#ebebc4;
+    background-image: url("Confetti-Doodles.svg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    padding: 7%;
+}
+h1 {
+    color:rgb(255, 187, 175);
+    font-size: 70px;
+    text-align: center;
+    text-shadow: teal;
+    font-family: 'Paytone One', sans-serif;
+}
+p{
+    color:wheat;
+    font-size: 20px;
+    text-align: center;
+    font-family:'Sarala', sans-serif;
+    padding: 5%;
+}
+h2{
+    color:rgb(197, 250, 184);
+    font-size: 70px;
+    font-family:'Bangers', cursive;
+    text-align:start;
+    padding: 7% 0 1% 0;
+}
+img{
+    width: 400px;
+    display: block;
+    margin: 0 5% 7% 5%;
+}
+h3{
+    color:#b4f4f8;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:start;
+    padding: 0 5% 0 5%;
+}
+h4{
+    color:rgb(172, 223, 159);
+    font-size: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:start;
+}
+.a{
+    display: block;
+    margin: auto;
+}
+.container-b{
+    display: flex;
+    flex-direction: row;
+}
+.b{
+    background-image: url("Subtle-Prism.svg");
+    background-repeat: no-repeat;
+    padding: 5%;
+    margin: 5%;
+    background-size: 100%;
+    color:black;
+}
+a{
+    text-decoration: none;
+    color: #b4f4f8;
+}
+.reckonomics{
+    transition: width 2s;
+}
+.container-c{
+    display: flex;
+    flex-direction: row;
+}
+.c{
+    background-image: url("Alternating-Arrowhead.svg");
+    background-repeat: no-repeat;
+    padding: 5%;
+    margin: 5%;
+    background-size: 100%;
+    color:rgb(5, 7, 75);
+}
+.container-d{
+    display: flex;
+    flex-direction: row;
+}
+.d{
+    background-image: url("Radiant-Gradient.svg");
+    background-repeat: no-repeat;
+    padding: 5%;
+    margin: 5%;
+    background-size: 100%;
+    color:rgb(68, 6, 46);
+}
+.container-e{
+    display: flex;
+    flex-direction: row;
+}
+.e{
+    background-image: url("Bullseye-Gradient.svg");
+    background-repeat: no-repeat;
+    padding: 5%;
+    margin: 5%;
+    background-size: 100%;
+    color:rgb(204, 232, 252);
+}
+.image-e{
+    width: 250px;
+    display: block;
+}
+.container-f{
+    display: flex;
+    flex-direction: row;
+}
+.f{
+    background-image: url("fade.svg");
+    background-repeat: no-repeat;
+    padding: 5%;
+    margin: 5%;
+    background-size: 100%;
+    color:rgb(252, 207, 204);
+}
+.image-f{
+    width: 250px;
+    display: block;
+}
+.container-g{
+    display: flex;
+    flex-direction: row;
+}
+.g{
+    background-image: url("Geometric-Intersection.svg");
+    background-repeat: no-repeat;
+    padding: 5%;
+    margin: 5%;
+    background-size: 100%;
+    color:rgb(254, 255, 169);
+}
+.image-g{
+    width: 400px;
+    display: block;
+}
+.h{
+    color:wheat;
+    font-size: 30px;
+    text-align: start;
+    padding: 0;
+}
