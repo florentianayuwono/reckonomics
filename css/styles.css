@@ -5,7 +5,7 @@ body {
     background-attachment: fixed;
     background-position: center;
     padding: 7%;
-    background-size: auto;
+    background-size: cover;
 }
 h1 {
     color:rgb(255, 187, 175);
